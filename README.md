@@ -10,7 +10,7 @@ You can find the Report project [here](https://github.com/robertom-binqua/scalat
 1. Moving to [Scala 3](https://www.scala-lang.org/download/3.7.0.html) [scalatest-featurespecs-screenshots-reporter scala 3 branch](https://github.com/robertom-binqua/scalatest-featurespecs-screenshots-reporter/tree/main) ... finally.
 2. Always an eye on [Haskell](https://haskell.mooc.fi), [Cats](https://typelevel.org/cats/), [Cats Effect](https://typelevel.org/cats-effect/) and [FS2](https://fs2.io/#/guide) libraries ecosystem.
 3. [React](https://react.dev) and [TypeScript](https://www.typescriptlang.org) because I think typeless language should not exist ;-).
-4. Some AI courses on Coursera:
+4. Some AI courses on Coursera that I completed recently:
    1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/W8VEX2UINGAD)
    2. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/W8VEX2UINGAD)
    3. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/DW61TFBVRU1Y)
