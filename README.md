@@ -14,7 +14,7 @@ You can find the Report project [here](https://github.com/robertom-binqua/scalat
    1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/W8VEX2UINGAD)
    2. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/W8VEX2UINGAD)
    3. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/DW61TFBVRU1Y)
-5. Java 21 ... I know :-(
+5. Java 21 
 
 <!--
 **robertom-binqua/robertom-binqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
